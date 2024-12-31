@@ -1,0 +1,1 @@
+This Haskell code attempts to compute the factorial of a number using a recursive function. However, it contains a subtle bug that can lead to unexpected behavior or even stack overflow for larger inputs. The issue is related to the lack of a base case for the recursion, leading to an infinite loop.
